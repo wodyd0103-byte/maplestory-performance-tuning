@@ -1,0 +1,8 @@
+# Windows
+Thumbs.db
+desktop.ini
+*.lnk
+
+# 측정 산출물 (data/ 에 커밋한 것 외)
+loadlog_*.csv
+!data/loadlog_64gb.csv
